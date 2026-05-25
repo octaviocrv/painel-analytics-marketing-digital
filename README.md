@@ -1,48 +1,45 @@
-# 📊 Painel Analytics — Marketing Digital
+<h1 align="center"> 📈 Painel Analytics • Marketing Digital </h1>
 
-Dashboard de analytics para marketing digital, construído com **Next.js**, **TypeScript** e **Tailwind CSS**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-## 🚀 Tecnologias
+> Um dashboard completo, rápido e responsivo para centralizar e dominar as métricas de marketing digital, sem perder a elegância no código.
 
-- [Next.js](https://nextjs.org/) — framework React com App Router
-- [TypeScript](https://www.typescriptlang.org/) — tipagem estática
-- [Tailwind CSS](https://tailwindcss.com/) — estilização utilitária
-- [ESLint](https://eslint.org/) — linting e qualidade de código
+## 🎯 Sobre o Projeto
+O **Painel Analytics** foi criado para transformar números e dados complexos de tráfego em insights visuais e acionáveis. Construído com foco em alta performance e na melhor experiência do usuário (UX), ele oferece uma interface limpa e moderna para acompanhamento de resultados.
+
+*(Dica: Substitua este texto por uma captura de tela ou GIF do seu painel funcionando!)*
+<!-- <img src="caminho/para/sua/imagem.png" alt="Screenshot do Dashboard" /> -->
+
+---
+
+## ✨ Principais Funcionalidades
+- **Métricas em Tempo Real:** Acompanhamento dinâmico de KPIs de campanhas, leads e conversões.
+- **Interface Clean & Responsiva:** Adaptação perfeita para qualquer tela de forma fluida.
+- **Tipagem Segura:** Código mais previsível e com menos bugs em produção.
+- **Arquitetura Moderna:** Roteamento rápido e eficiente utilizando o App Router.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+A base tecnológica do projeto foi escolhida para garantir escalabilidade e manutenção simplificada:
+- **[Next.js](https://nextjs.org/)** — Framework React com renderização híbrida e App Router.
+- **[TypeScript](https://www.typescriptlang.org/)** — Superset do JavaScript que adiciona tipagem estática.
+- **[Tailwind CSS](https://tailwindcss.com/)** — Framework CSS utility-first para estilização rápida e customizável.
+- **[ESLint](https://eslint.org/)** — Ferramenta de linting para garantir a qualidade e padronização do código.
+
+---
 
 ## 📁 Estrutura do Projeto
-├── app/          # Rotas e páginas (App Router)
-├── components/   # Componentes reutilizáveis
-├── hooks/        # Custom hooks
-├── utils/        # Funções utilitárias
-└── public/       # Arquivos estáticos
+Uma visão geral da organização dos arquivos para facilitar a navegação:
 
-## ⚙️ Como rodar localmente
-
-**Pré-requisitos:** Node.js 18+
-
-```bash
-# Clone o repositório
-git clone https://github.com/octaviocrv/painel-analytics-marketing-digital.git
-cd painel-analytics-marketing-digital
-
-# Instale as dependências
-npm install
-
-# Rode o servidor de desenvolvimento
-npm run dev
-```
-
-Acesse [http://localhost:3000](http://localhost:3000) no navegador.
-
-## 📦 Scripts disponíveis
-
-| Comando | Descrição |
-|---|---|
-| `npm run dev` | Inicia o servidor de desenvolvimento |
-| `npm run build` | Gera o build de produção |
-| `npm run start` | Inicia o servidor em produção |
-| `npm run lint` | Executa o linter |
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
+```text
+📦 painel-analytics-marketing-digital
+├── 📂 app/          # Rotas principais e páginas da aplicação
+├── 📂 components/   # Componentes visuais isolados e reutilizáveis
+├── 📂 hooks/        # Custom hooks para isolamento de lógicas de negócio
+├── 📂 utils/        # Funções utilitárias e formatações globais
+└── 📂 public/       # Assets estáticos (imagens, ícones, fontes)
