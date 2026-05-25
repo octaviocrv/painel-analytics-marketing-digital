@@ -1,4 +1,4 @@
-<h1 align="center"> 📈 Painel Analytics • Marketing Digital </h1>
+<h1 align="center"> Painel Analytics • Marketing Digital </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -11,10 +11,10 @@
 <img width="653" height="294" alt="dash" src="https://github.com/user-attachments/assets/9f255d9f-0e24-4d00-8cc5-3a06994115a0" />
 
 
-## 🎯 Sobre o Projeto
-O **Painel Analytics** foi criado para transformar números e dados complexos de tráfego em insights visuais e acionáveis. Construído com foco em alta performance e na melhor experiência do usuário (UX), ele oferece uma interface limpa e moderna para acompanhamento de resultados.
+## Sobre o Projeto
+O **Painel Analytics** foi criado para transformar números e dados complexos de tráfego em insights visuais e acionáveis. Construído com foco em alta performance e na melhor experiência do usuário (UX), ele oferece uma interface limpa e moderna para acompanhamento de resultados. Feito para a @planads
 
-## ✨ Principais Funcionalidades
+##  Principais Funcionalidades
 - **Métricas em Tempo Real:** Acompanhamento dinâmico de KPIs de campanhas, leads e conversões.
 - **Interface Clean & Responsiva:** Adaptação perfeita para qualquer tela de forma fluida.
 - **Tipagem Segura:** Código mais previsível e com menos bugs em produção.
@@ -22,7 +22,7 @@ O **Painel Analytics** foi criado para transformar números e dados complexos de
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 A base tecnológica do projeto foi escolhida para garantir escalabilidade e manutenção simplificada:
 - **[Next.js](https://nextjs.org/)** — Framework React com renderização híbrida e App Router.
 - **[TypeScript](https://www.typescriptlang.org/)** — Superset do JavaScript que adiciona tipagem estática.
@@ -31,7 +31,7 @@ A base tecnológica do projeto foi escolhida para garantir escalabilidade e manu
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 Uma visão geral da organização dos arquivos para facilitar a navegação:
 
 ```text
