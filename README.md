@@ -11,11 +11,6 @@
 ## 🎯 Sobre o Projeto
 O **Painel Analytics** foi criado para transformar números e dados complexos de tráfego em insights visuais e acionáveis. Construído com foco em alta performance e na melhor experiência do usuário (UX), ele oferece uma interface limpa e moderna para acompanhamento de resultados.
 
-*(Dica: Substitua este texto por uma captura de tela ou GIF do seu painel funcionando!)*
-<!-- <img src="caminho/para/sua/imagem.png" alt="Screenshot do Dashboard" /> -->
-
----
-
 ## ✨ Principais Funcionalidades
 - **Métricas em Tempo Real:** Acompanhamento dinâmico de KPIs de campanhas, leads e conversões.
 - **Interface Clean & Responsiva:** Adaptação perfeita para qualquer tela de forma fluida.
