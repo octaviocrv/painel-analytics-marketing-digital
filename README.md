@@ -6,7 +6,10 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-> Um dashboard completo, rápido e responsivo para centralizar e dominar as métricas de marketing digital, sem perder a elegância no código.
+> Um dashboard completo, rápido e responsivo para centralizar e dominar as métricas de marketing digital, sem perder a elegância no código. Caso não aparecer e der invalidade e devido as credenciais do facebook deixo aqui meu linkedin para melhor observação https://www.linkedin.com/feed/update/urn:li:activity:7453100769861419008/
+
+<img width="653" height="294" alt="dash" src="https://github.com/user-attachments/assets/9f255d9f-0e24-4d00-8cc5-3a06994115a0" />
+
 
 ## 🎯 Sobre o Projeto
 O **Painel Analytics** foi criado para transformar números e dados complexos de tráfego em insights visuais e acionáveis. Construído com foco em alta performance e na melhor experiência do usuário (UX), ele oferece uma interface limpa e moderna para acompanhamento de resultados.
